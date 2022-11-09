@@ -1,0 +1,15 @@
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\bin\Debug\outro.exe.config
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\bin\Debug\outro.exe
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\bin\Debug\outro.pdb
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\obj\Debug\outro.csproj.AssemblyReference.cache
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\obj\Debug\outro.csproj.SuggestedBindingRedirects.cache
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\obj\Debug\outro.csproj.CoreCompileInputs.cache
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\obj\Debug\outro.exe
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\obj\Debug\outro.pdb
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\bin\Debug\Costura.dll
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\bin\Debug\Costura.pdb
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\bin\Debug\Costura.xml
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\obj\Debug\outro.csproj.Fody.CopyLocal.cache
+C:\Users\wikomiks\Documents\GitHub\BroMyPcHasOutro\outro\obj\Debug\outro.csproj.CopyComplete
